@@ -5,7 +5,7 @@
 #include <sstream>
 #include <string>
 
-#include "RSA/RSA.h"
+#include "RSA.h"
 #include "ende_code_file.h"
 
 bool

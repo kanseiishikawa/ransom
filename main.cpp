@@ -4,7 +4,7 @@
 #include <fstream>
 #include <string>
 
-#include "RSA/RSA.h"
+#include "RSA.h"
 #include "ende_code_file.h"
 
 int main()
